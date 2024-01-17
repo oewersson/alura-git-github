@@ -6,7 +6,7 @@ Esse repositório é um teste das diversas funcionalidades do Git e do Github
 Traduzindo a palavra para o português, ela significa: **Problemas**.
 <br>
 E ela serve para basicamente para 3 funcionalidades:
-- Reportar Problemas
+- Reportar Problemasc
 - Sugerir melhorias no código
 - Organizar qualquer coisa que faça sentido para o projeto.
   
