@@ -11,3 +11,9 @@ E ela serve para basicamente para 3 funcionalidades:
 - Organizar qualquer coisa que faça sentido para o projeto.
   
 # O que são PullRequets? 
+
+São pedidos de envio de modifações de pessoas que estão contruibuindo no projeto
+
+
+# Como unir commits?
+
